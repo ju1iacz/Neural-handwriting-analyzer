@@ -1,5 +1,5 @@
 # Neural handwriting analyzer
-Project is an application for recognizing digits written in a dialog box with a computer mouse.
+The project is an application for recognizing digits written in a dialog box with a computer mouse.
 
 ## General info
 The project consists of two parts. The first part is a model of convolutional neural network trained with a data from 
